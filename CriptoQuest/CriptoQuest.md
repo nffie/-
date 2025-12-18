@@ -1,4 +1,3 @@
-```markdown
 ## Ответы для @BlockchainQuestBot
 
 ---
@@ -60,4 +59,3 @@
 `170`
 
 ---
-```
